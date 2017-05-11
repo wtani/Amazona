@@ -1,0 +1,2 @@
+# Amazona
+Maze kar lo
